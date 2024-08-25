@@ -12,7 +12,7 @@
 
 구글 코랩 환경에서 해당 파일의 **'버스정류장 이름'** 과 **'해당 정류장의 주소'** 열을 추출한 뒤, 네이버 지오코드 API를 활용해 위도와 경도로 변환했습니다.
 
-![전처리 과정 이미지](https://github.com/user-attachments/assets/aa04a673-ea44-468d-8b74-6cbb609cec99)
+![전처리 과정 이미지](https://github.com/user-attachments/assets/4493962f-e7f8-43ff-9765-89b313f2cfc5)
 
 ---
 
@@ -20,7 +20,7 @@
 - 각 행정구역 버튼을 누르면 해당 행정구역에 속한 버스정류장의 위치를 지도상에 표시합니다.
 - **'모니터링'** 버튼: 관심을 두고 있는 특정 버스정류장만을 지도에 표시합니다.
 - **'스마트쉘터'** 버튼: 스마트쉘터가 설치된 버스정류장을 지도에 표시합니다.
-![동작 설명 이미지](https://github.com/user-attachments/assets/4493962f-e7f8-43ff-9765-89b313f2cfc5)
+![동작 설명 이미지](https://github.com/user-attachments/assets/88ab0028-8b9a-4be0-a736-cd4ede7d2554)
 
 
 ---
