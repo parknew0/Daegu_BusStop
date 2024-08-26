@@ -23,7 +23,8 @@
 ![동작 설명 이미지](https://github.com/user-attachments/assets/88ab0028-8b9a-4be0-a736-cd4ede7d2554)
 
 
-- 행정구역 좌표를 네이버지도API를 이용해 폴리곤으로 그려 넣었습니다.
+- GeoJson 파일(https://github.com/raqoon886/Local_HangJeongDong)을 분해해 각 행정구역 단위로 구별한 뒤, 네이버지도API를 이용해 폴리곤으로 그려 넣었습니다.
+- 줌(확대) 레벨에 따라 텍스트 크기 등 시각적 요소들을 동적으로 조정되도록 하여, 사용자가 지도를 더욱 직관적으로 탐색할 수 있도록 시각적 편의성을 개선했습니다.
 ![동작 설명 이미지](https://github.com/user-attachments/assets/1d9c7bb0-1118-48a6-85b5-7e0e0c848d5e)
 ![동작 설명 이미지](https://github.com/user-attachments/assets/d12fc75f-2926-439f-b67e-e102a231088a)
 ---
