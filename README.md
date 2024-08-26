@@ -21,6 +21,9 @@
 - **'모니터링'** 버튼: 관심을 두고 있는 특정 버스정류장만을 지도에 표시합니다.
 - **'스마트쉘터'** 버튼: 스마트쉘터가 설치된 버스정류장을 지도에 표시합니다.
 ![동작 설명 이미지](https://github.com/user-attachments/assets/88ab0028-8b9a-4be0-a736-cd4ede7d2554)
+
+
+- 행정구역 좌표를 네이버지도API를 이용해 폴리곤으로 그려 넣었습니다.
 ![동작 설명 이미지](https://github.com/user-attachments/assets/1d9c7bb0-1118-48a6-85b5-7e0e0c848d5e)
 ![동작 설명 이미지](https://github.com/user-attachments/assets/d12fc75f-2926-439f-b67e-e102a231088a)
 ---
